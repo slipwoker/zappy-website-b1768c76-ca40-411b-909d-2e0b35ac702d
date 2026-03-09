@@ -1,0 +1,44 @@
+# Ryan's Blog — Generative Engine Optimization Map
+
+> A content blog focused on the Bermuda Triangle, exploring the mysteries, legends, and phenomena associated with this enigmatic region of the Atlantic Ocean.
+
+---
+
+## Pages
+
+### Home
+https://ryan-s-blog-b1768c76.zappy5.app
+Dive deep into the legends, unexplained phenomena, and scientific theories surrounding the Bermuda Triangle. Explore captivating stories and evidence today.
+
+## Legal & Policy
+
+### Privacy Policy
+https://ryan-s-blog-b1768c76.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://ryan-s-blog-b1768c76.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://ryan-s-blog-b1768c76.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Ryan's Blog
+A content blog focused on the Bermuda Triangle, exploring the mysteries, legends, and phenomena associated with this enigmatic region of the Atlantic Ocean.
+
+## Target Audience
+
+## Industry
+content publishing
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://ryan-s-blog-b1768c76.zappy5.app/sitemap.xml
+- **Robots.txt**: https://ryan-s-blog-b1768c76.zappy5.app/robots.txt

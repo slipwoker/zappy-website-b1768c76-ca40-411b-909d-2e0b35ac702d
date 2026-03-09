@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ryan-s-blog-b1768c76.zappy5.app/sitemap.xml
